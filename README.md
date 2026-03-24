@@ -7,6 +7,9 @@
 Saya adalah mahasiswa yang tertarik di bidang teknologi dan pengembangan aplikasi.
 
 ## 🚀 Skills & Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma" />
+</p>
 - HTML, CSS, JavaScript
 - Figma
 - Python (dasar)
