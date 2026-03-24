@@ -1,3 +1,6 @@
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Tech+Enthusiast)
 # Halo, saya Zacky Ananda 👋
 
 ## 🧑‍💻 Introduction
