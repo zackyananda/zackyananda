@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius: 10px;" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Web+Developer;Tech+Enthusiast" />
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=8A8A8A&center=true&vCenter=true&width=400&lines=Learning+step+by+step;Building+my+skills;Stay+consistent" />
 
 <h2>Halo, saya Zacky Ananda 👋</h2>
 
 <p>
-Mahasiswa yang tertarik di bidang teknologi dan sedang belajar web development.
+Mahasiswa yang sedang belajar dan berkembang di bidang teknologi & web development.
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 Introduction
-Saya adalah mahasiswa yang sedang mempelajari dan mengembangkan kemampuan di bidang teknologi, khususnya web development.
+## 🧑‍💻 Tentang Saya
+- 🎓 Mahasiswa  
+- 💻 Tertarik pada Web Development  
+- 🌱 Sedang belajar dan terus berkembang  
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,vscode" />
 </p>
@@ -28,27 +32,21 @@ Saya adalah mahasiswa yang sedang mempelajari dan mengembangkan kemampuan di bid
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zackyananda&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackyananda&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zackyananda&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackyananda&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🌐 Social Media
-- Instagram: https://instagram.com/zackyananda_
-- LinkedIn: (opsional)
-
----
-
-## 🎉 Fun Facts
-- 💻 Suka eksplor teknologi baru  
-- 🌙 Lebih produktif di malam hari  
-- ☕ Suka belajar sambil ngopi  
+## 🌐 Social
+<p align="center">
+  <a href="https://instagram.com/zackyananda_">Instagram</a>
+</p>
 
 ---
 
 <div align="center">
 
-<sub>Masih belajar dan terus berkembang 🚀</sub>
+✨ <sub>Still learning, still growing.</sub> ✨
 
 </div>
