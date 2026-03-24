@@ -1,25 +1,54 @@
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Welcome+to+my+GitHub;Web+Developer;Tech+Enthusiast)
-# Halo, saya Zacky Ananda 👋
+# Hi 👋, I'm Zacky Ananda
 
-## 🧑‍💻 Introduction
-Saya adalah mahasiswa yang tertarik di bidang teknologi dan pengembangan aplikasi.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer;Tech+Enthusiast" />
 
-## 🚀 Skills & Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma" />
+</div>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Mahasiswa yang tertarik di bidang teknologi & pengembangan aplikasi  
+- 💻 Lagi belajar jadi Web Developer  
+- 🌙 Lebih produktif di malam hari  
+
+---
+
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode" />
 </p>
-- HTML, CSS, JavaScript
-- Figma
-- Python (dasar)
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackyananda&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zackyananda&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zackyananda&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🌐 Social Media
-- Instagram: @zackyananda_
+---
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://instagram.com/zackyananda_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 🎉 Fun Facts
-- Suka eksplor teknologi baru 💻
-- Lebih produktif di malam hari 🌙
+- 🚀 Suka eksplor teknologi baru  
+- ☕ Tim kopi daripada teh  
+- 🎯 Fokus belajar & berkembang  
+
+---
+
+<div align="center">
+  
+✨ *"Keep learning, keep growing"* ✨
+
+</div>
