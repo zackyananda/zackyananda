@@ -1,16 +1,19 @@
-## Hi there 👋
+# Halo, saya Zacky Ananda 👋
 
-<!--
-**zackyananda/zackyananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Introduction
+Saya adalah mahasiswa yang tertarik di bidang teknologi dan pengembangan aplikasi.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tech Stack
+- HTML, CSS, JavaScript
+- Figma
+- Python (dasar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackyananda&show_icons=true&theme=tokyonight)
+
+## 🌐 Social Media
+- Instagram: @zackyananda_
+
+## 🎉 Fun Facts
+- Suka eksplor teknologi baru 💻
+- Lebih produktif di malam hari 🌙
