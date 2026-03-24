@@ -40,7 +40,9 @@ Mahasiswa yang sedang belajar dan berkembang di bidang teknologi & web developme
 
 ## 🌐 Social
 <p align="center">
-  <a href="https://instagram.com/zackyananda_">Instagram</a>
+  <a href="https://instagram.com/zackyananda_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
